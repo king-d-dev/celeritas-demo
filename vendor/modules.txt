@@ -1,0 +1,7 @@
+# github.com/joho/godotenv v1.4.0
+## explicit; go 1.12
+github.com/joho/godotenv
+# github.com/king-d-dev/celeritas v0.0.0-00010101000000-000000000000 => ../celeritas
+## explicit; go 1.19
+github.com/king-d-dev/celeritas
+# github.com/king-d-dev/celeritas => ../celeritas
